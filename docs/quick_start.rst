@@ -56,5 +56,5 @@ If the build succeeds, run the next command to run the bot.
 
 .. image:: ./assets/adjustRole.gif
 
-`Go back to docs front page <https://github.com/KaoushikMurugan/BOB/blob/main/docs/main.rst>`__
+`Go Back To The Docs Main Page <https://github.com/KaoushikMurugan/BOB/blob/main/docs/main.rst>`__
 -----------------------------------------------------------------------------------------------
