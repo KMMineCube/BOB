@@ -14,12 +14,14 @@ Setting up the ``when_next`` command requires the following:
      
       -  A column titled "Calendar Name" that lists calendar names for users.
       -  A column titled "Discord ID" that lists the corresponding discord (snowflake) IDs of the calendar name
-      **Note**: *Discord ID is NOT your discord username or nickname. Read `this <https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID>`__ to know how to get the snowflake ID of a discord user*
+      **Note**: *Discord ID is NOT your discord username or nickname. 
+      
+      *Read* `this <https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID>`__ *to know how to get the snowflake ID of a Discord user.*
 
    -  The bot must have access to read the Google Sheet. This can be done either by:
      
       -  Setting the Google Sheet to **Public** (i.e. allow anyone with the link can view the document).
       -  If the sheet is private, sending the bot an invite to access the sheet.
 
-`Go back to docs front page <https://github.com/KaoushikMurugan/BOB/blob/main/docs/main.rst>`__
+`Go Back To The Docs Main Page <https://github.com/KaoushikMurugan/BOB/blob/main/docs/main.rst>`__
 -----------------------------------------------------------------------------------------------
