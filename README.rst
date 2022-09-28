@@ -1,3 +1,6 @@
+Project moved to https://github.com/KaoushikMurugan/YABOB
+=========================================================
+
 .. |DiscordLogo| image:: https://img.icons8.com/color/48/000000/discord-logo.png
    :target: https://discordapp.com
 
